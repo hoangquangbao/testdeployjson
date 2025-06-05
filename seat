@@ -920,7 +920,8 @@
         "airCraftType": "ATR",
         "explanation": [
             "explanation_1",
-            "explanation_2"
+            "explanation_2",
+            "explanation_3"
         ]
     },
     "message": "success",
