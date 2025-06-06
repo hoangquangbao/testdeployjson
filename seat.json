@@ -3,7 +3,7 @@
     "data": {
         "seatCodes": [
             {
-                "serviceCode": "Service Code ",
+                "serviceCode": "Service Code",
                 "description": "Description",
                 "quantityAvailable": 999,
                 "amount": 0,
