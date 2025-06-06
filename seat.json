@@ -5,7 +5,7 @@
             {
                 "serviceCode": "Service Code ",
                 "description": "Description ",
-                "quantityAvailable": 999,
+                "quantityAvailable": 999 ,
                 "amount": 0,
                 "serviceName": "Service Name",
                 "explanation": "Explanation",
